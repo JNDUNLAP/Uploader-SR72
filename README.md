@@ -1,8 +1,8 @@
 # CSV to PostgreSQL Golang
-turn a csv to a postgresql table
+Turn a csv to a postgresql table
 
 ## Motivation
-Python is slow and Speed is fun
+Python is slow and speed & scalability is fun
 
 ```sh
 go run main.go
